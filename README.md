@@ -25,12 +25,19 @@ These insights drive strategic suggestions to improve retail operations.
 ## 📁 Project Structure
 .
 ├── Cleaned_Superstore_Dates.csv             # Cleaned dataset after initial processing
+
 ├── EDA_and_Correlation (1).ipynb            # Jupyter Notebook for Python EDA and correlation
+
 ├── Retail_Business_Performance_Project.PNG  # Screenshot of the Tableau Dashboard
+
 ├── Sample - Superstore (1).csv              # Original raw dataset
+
 ├── category_profitability.csv               # CSV output of SQL query for category profitability
+
 ├── README.md                                # This README file
+
 ├── Project_Report.docx                      # Comprehensive project report (MS Word format)
+
 └── Retail_Business_Performance_Project.twb  # Tableau Workbook file
 
 
